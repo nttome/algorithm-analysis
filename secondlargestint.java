@@ -1,8 +1,8 @@
 // Nicole Tome
 import java.util.*;
-public class cmsc401 {
+public class secondlargestint {
     private static final Scanner scanner = new Scanner(System.in);
-    // Please use these methods to take inputs and write outputs.
+    
     private static Integer readInt() {
         return scanner.nextInt();
     }
